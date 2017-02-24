@@ -34,3 +34,9 @@
 ## About Laravel
 
 <img src="https://github.com/Treeandsaw/laravel-crud/blob/master/5.jpg">
+
+
+
+## About Laravel
+
+<img src="https://github.com/Treeandsaw/laravel-crud/blob/master/6.png">
